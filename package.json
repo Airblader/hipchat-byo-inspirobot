@@ -1,0 +1,13 @@
+{
+    "dependencies": {
+        "body-parser": "^1.17.2",
+        "express": "^4.15.3",
+        "node-fetch": "^1.7.1"
+    },
+    "scripts": {
+        "start": "node index.js"
+    },
+    "engines": {
+        "node": "7.10.0"
+    }
+}
